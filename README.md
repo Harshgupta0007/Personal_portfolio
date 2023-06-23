@@ -1,5 +1,5 @@
 <h1> Personal Portfolio Website</h1>
-
+<h2> View the website <a>https://harshgupta0007.netlify.app/</a></h2>
 This is a personal portfolio website project built using HTML, CSS, and JavaScript. The website showcases my skills, projects, and experiences to provide visitors with an overview of my professional background.
 
 <h3>Features</h3>
@@ -53,3 +53,4 @@ Typed.js: Matt Boldt<br>
 Tilt.js: Gijs Rogé<br>
 Scroll Reveal: Julian Lloyd<br>
 Feel free to explore and modify the code to create your own personalized portfolio website. Enjoy showcasing your skills and experiences to the world!
+

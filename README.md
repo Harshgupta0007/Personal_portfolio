@@ -48,8 +48,8 @@ This project is licensed under the MIT License.
 Acknowledgments
 I would like to acknowledge the creators of the libraries and frameworks used in this project for their contributions to the open-source community.
 
-Particle.js: Vincent Garreau
-Typed.js: Matt Boldt
-Tilt.js: Gijs Rogé
-Scroll Reveal: Julian Lloyd
+Particle.js: Vincent Garreau <br>
+Typed.js: Matt Boldt<br>
+Tilt.js: Gijs Rogé<br>
+Scroll Reveal: Julian Lloyd<br>
 Feel free to explore and modify the code to create your own personalized portfolio website. Enjoy showcasing your skills and experiences to the world!

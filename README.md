@@ -1,5 +1,5 @@
 <h1> Personal Portfolio Website</h1>
-<h2> View the website <a>https://harshgupta0007.netlify.app/</a></h2>
+<h2> <a href="https://harshgupta0007.netlify.app/">Visit the website</a></h2>
 This is a personal portfolio website project built using HTML, CSS, and JavaScript. The website showcases my skills, projects, and experiences to provide visitors with an overview of my professional background.
 
 <h3>Features</h3>

@@ -30,7 +30,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/YourUsername/YourPortfolio.git
+
 Navigate to the project directory:
 
 bash
